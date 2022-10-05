@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **on Reactjs project**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML,CSS,JS and Graphics designs tools**
 
