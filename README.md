@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML,CSS,JS and Graphics designs tools**
+- 💬 Ask me about **HTML,CSS,JS and Graphics design tools**
 
 - 📫 How to reach me **priti.chauhan1518@gmail.com**
 
