@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Something new that makes me more creative**
 
-- 💬 Ask me about **HTML,CSS,JS and Graphics design tools**
+- 💬 Ask me about **HTML, CSS, JS, and Graphics Design Tools**
 
 - 📫 How to reach me **priti.chauhan1518@gmail.com**
 
