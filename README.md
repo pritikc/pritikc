@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Priti Chauhan</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<!-- <h3 align="left">A passionate frontend developer</h3> -->
+<p>I am a frontend developer who believes in quality work and is seeking a position where I can share my knowledge to grow the company and expand my skills. always prioritizing work and business value and delivering the highest possible quality work.</p>
 
 <!-- - 🔭 I’m currently working on **Project** -->
 
