@@ -3,7 +3,9 @@
 
 <!-- - 🔭 I’m currently working on **Project** -->
 
-- 🌱 I’m currently learning **Something new that makes me more creative**
+- 🌱 I’m currently learning **something new that makes me more creative**
+- 
+- 👯 I’m looking for work or employment **opportunities (remote and relocation)**
 
 - 💬 Ask me about **HTML, CSS, JS, and Graphics Design Tools**
 
