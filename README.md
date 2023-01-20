@@ -8,7 +8,7 @@
 
 - 👯 I’m looking for work or employment **opportunities (remote and relocation)**
 
-- 💬 Ask me about **HTML, CSS, JS, and Graphics Design Tools**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, and Graphics Design Tools**
 
 - 📫 How to reach me **priti.chauhan1518@gmail.com**
 
