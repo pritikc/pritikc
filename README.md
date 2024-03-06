@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Priti Chauhan</h1>
-<!-- <h3 align="left">A passionate frontend developer</h3> -->
-<p>I am a frontend developer who believes in quality work and is seeking a position where I can share my knowledge to grow the company and expand my skills. always prioritizing work and business value and delivering the highest possible quality work.</p>
+<!-- <h3 align="left">A passionate UI/UX Designer</h3> -->
+<p>I am a UI/UX designer who believes in quality work and is seeking a position where I can share my knowledge to grow the company and expand my skills. always prioritizing work and business value and delivering the highest possible quality work.</p>
 
 <!-- - 🔭 I’m currently working on **Project** -->
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking for work or employment **opportunities (remote and relocation)**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, and Graphics Design Tools**
+- 💬 Ask me about **HTML, CSS, JS and Graphics Design Tools**
 
 - 📫 How to reach me **priti.chauhan1518@gmail.com**
 
