@@ -11,6 +11,8 @@
 - 💬 Ask me about **HTML, CSS, JS and Graphics Design Tools**
 
 - 📫 How to reach me **priti.chauhan1518@gmail.com**
+- 
+-  > **<a href="https://pritikc.github.io/pritichauhan/">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
